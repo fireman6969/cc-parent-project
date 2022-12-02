@@ -1,0 +1,3 @@
+[submodule "parentProj/assets/ccLogProj"]
+	path = parentProj/assets/ccLogProj
+	url = git@github.com:fireman6969/ccLogProj.git
