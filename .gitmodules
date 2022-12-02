@@ -1,0 +1,6 @@
+[submodule "LogTempProj"]
+	path = LogTempProj
+	url = git@github.com:fireman6969/LogTempProj.git
+	branch = release/v1.1
+[submodule "xyz"]
+	branch = release/v1.1
