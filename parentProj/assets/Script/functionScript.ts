@@ -14,6 +14,10 @@ export class functionScript extends Component {
     public write() : void {
         
     }
+
+    public play() : void {
+        
+    }
 }
 
 
